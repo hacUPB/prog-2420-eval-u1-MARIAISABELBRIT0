@@ -44,7 +44,7 @@ se refiere a la cantidad de ciclos que se realizan por segundo en el procesador 
 #### Memoria RAM:
 <mark>(Random Access Memory)</mark> 
 
-![RAM](image.png)
+![RAM](https://th.bing.com/th/id/OIP.17qcOLPSLQDjf2SGYewUqAAAAA?rs=1&pid=ImgDetMain)
 
 Es un tipo de memoria principal en dispositivos, Su función fundamental es almacenar temporalmente los datos de los programas y aplicaciones que estás utilizando en ese momento.
 
@@ -63,7 +63,7 @@ RAM significa Random Access Memory, literalmente memoria de acceso aleatorio. Es
   El primer disco duro fue inventado por IBM en 1956, desde entonces ha multiplicado su capacidad y se han hecho más compactos.
 
 #### Dispositivos de entrada y salida
-![dipositivos de entrada y salida](image-1.png)
+![dipositivos de entrada y salida](https://cdn.shopify.com/s/files/1/0482/6126/7617/articles/M314_2048x.jpg?v=1633105598)
 
 Los dispositivos de entrada y salida o unidades de entrada/salida son los equipos físicos conectados a la computadora. Estos dispositivos permiten comunicar información entre el usuario y la computadora o manejar un soporte de información.
 Son también llamados periféricos de computadora o periféricos de entrada y salida porque están separados de la unidad central de procesamiento.
@@ -193,4 +193,4 @@ En la actividad pude descubrir que Existen alrededor de 700 lenguajes de program
 - https://blog.hubspot.es/sales/tipos-de-software
 - https://tecnomagazine.net/tipos-de-software/
 - https://www.significados.com/hardware/
-- https://www.profesionalreview.com/hardware/
+- https://www.profesionalreview.com/hardware/s
