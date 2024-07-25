@@ -176,7 +176,8 @@ durante el proceso de encendido del computador, hay un arranque con muchas cosas
 ## descubrimiento de esta actividad
 
 En la actividad pude descubrir que Existen alrededor de 700 lenguajes de programación distintos. Entre esta lista, algunos de los lenguajes más populares son Javascript, Swift, Scala, Python, PHP, Go, Rust, Ruby y C#, con millones de usuarios que los utilizan tanto en sus carreras como en sus proyectos personales. Sin embargo, constantemente se crean nuevos lenguajes de programación. No era conciente de la cantidad de lenguajes que existian pues casi siempre se utilizan los mas famosos.
-
+## Mapa conceptual
+- https://www.canva.com/design/DAGLzsC_wQ8/jk3-aclW67pl2n5quy4pvg/view?utm_content=DAGLzsC_wQ8&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ## fuentes:
  - https://www.tecnologia-informatica.com/que-son-drivers-controladores/
