@@ -22,4 +22,4 @@ Se desea saber cuántos años, meses y días tiene actualmente una persona, bas�
 #### solucion
 ![problema3](<https://i.imgur.com/JOaAjkl.jpeg>)
 ![problema3](<https://i.imgur.com/ES5C84C.jpeg>)
-![problema3](<https://i.imgur.com/Hr4Akrs.jpeg>)
+![problema3](<https://i.imgur.com/jG26CFK.jpeg>)
